@@ -5,6 +5,6 @@ public class TestaAluno {
 		aluno.nome = "Isac";
 		aluno.rg = "32089455-6";
 		aluno.dataDeNascimento = "02/06/2005";
-		System.out.println(aluno.nome + " " + aluno.rg + " " + aluno.dataDeNascimento);
+		System.out.println(aluno.nome + "\n" + aluno.rg + "\n" + aluno.dataDeNascimento);
 	}
 }
